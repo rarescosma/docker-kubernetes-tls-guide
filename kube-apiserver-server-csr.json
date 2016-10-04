@@ -1,9 +1,11 @@
 {
-  "CN": "*.kubestack.io",
+  "CN": "*.kubernetes.local",
   "hosts": [
     "127.0.0.1",
-    "*.kubestack.io",
-    "*.c.kubestack.internal"
+    "10.0.40.96",
+    "*.kubernetes.local",
+    "*.svc.kubernetes.local",
+    "kubernetes.default.svc"
   ],
   "key": {
     "algo": "rsa",

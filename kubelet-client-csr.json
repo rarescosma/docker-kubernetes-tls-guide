@@ -1,6 +1,6 @@
 {
   "CN": "kubelet",
-  "hosts": [""],
+  "hosts": ["10.0.40.78"],
   "key": {
     "algo": "rsa",
     "size": 2048
